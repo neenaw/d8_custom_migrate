@@ -6,7 +6,7 @@ migration_tags:
 source:
   plugin: csv
   # Full path to the file.
-  path: public://csv/people.csv
+  path: public://{whatever the public file uploade directory is after sites/default/files}/people.csv
   # The number of rows at the beginning which are not data.
   header_row_count: 1
   # These are the field names from the source file representing the key
