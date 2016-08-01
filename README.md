@@ -1,5 +1,5 @@
 # d8_custom_migrate
-Dependencies on Migrate_Tools, Migrate_Plus and Migrate Source CSV
+Dependencies: Migrate, Migrate_Tools, Migrate_Plus and Migrate Source CSV
 
 Steps for making it works
 1. Enable the above modules after enable Drupal Core's Migrate Module
